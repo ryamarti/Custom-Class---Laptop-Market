@@ -1,0 +1,4 @@
+Ryzen, 5.2
+OMD, 7.7
+Xeon, 4.6
+Athlon, 3.9

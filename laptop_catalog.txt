@@ -1,0 +1,4 @@
+Office, Intel, WindowsOS, Xeon
+Gaming, Alienware, WindowsOS, OMD
+MacBook Pro, Apple, macOS, Athlon
+DataSyn, Hewlett-Packard, LinuxOS, Ryzen
